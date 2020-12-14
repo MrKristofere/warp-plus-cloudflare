@@ -10,7 +10,8 @@ A project for getting unlimited GB on Warp+ ( https://1.1.1.1/ )
 
 ### [?!] Changelog
 
-- Fix gui version ( v 2.0 )
+- Fix gui version ( v 2.0 ).
+- Fix gui version ( v 2.1 ) ssl error.
 
 ### Download App For windows os
 
