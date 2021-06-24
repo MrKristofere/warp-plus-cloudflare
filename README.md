@@ -12,6 +12,7 @@ A project for getting unlimited GB on Warp+ ( https://1.1.1.1/ )
 
 - Fix gui version ( v 2.0 ).
 - Fix gui version ( v 2.1 ) ssl error.
+- fix gui version ( v 2.2 ) added dark mode.
 
 ### Download App For windows os
 
@@ -49,6 +50,7 @@ A project for getting unlimited GB on Warp+ ( https://1.1.1.1/ )
 3. Advanced > Diagonistics
 4. Under Client Configuration > Copy the ID
 --------------------------------------------------------------------
+![](https://github.com/ALIILAPRO/warp-plus-cloudflare/blob/master/sc/sc.JPG)
 ![](https://github.com/ALIILAPRO/warp-plus-cloudflare/blob/master/sc/sc-g.png)
 ![](https://github.com/ALIILAPRO/warp-plus-cloudflare/blob/master/sc/sc-m.png)
 ![](https://github.com/ALIILAPRO/warp-plus-cloudflare/blob/master/sc/sc-p.png)
