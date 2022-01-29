@@ -57,3 +57,7 @@ A project for getting unlimited GB on Warp+ ( https://1.1.1.1/ )
 ![](https://github.com/ALIILAPRO/warp-plus-cloudflare/blob/master/sc/sc-m.png)
 ![](https://github.com/ALIILAPRO/warp-plus-cloudflare/blob/master/sc/sc-p.png)
 ![](https://github.com/ALIILAPRO/warp-plus-cloudflare/blob/master/sc/sc-d.png)
+
+## Visitors Count
+
+<img align="left" src = "https://profile-counter.glitch.me/warp-plus-cloudflare/count.svg" alt ="ALI">
