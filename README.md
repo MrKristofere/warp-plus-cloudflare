@@ -13,7 +13,7 @@ A project for getting unlimited GB on Warp+ ( https://1.1.1.1/ )
 - Fix gui version ( v 2.0 ).
 - Fix gui version ( v 2.1 ) ssl error.
 - fix gui version ( v 2.2 ) added dark mode.
-- fix gui version ( v 2.2 ) added server 2.
+- fix gui version ( v 2.2.1 ) added server 2.
 
 ### Download App For windows os
 
